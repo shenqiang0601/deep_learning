@@ -1,0 +1,2 @@
+# deep_learning
+深度学习实战项目主要围绕各行各业人工智能需要开发的入门级别的项目，由浅入深，涉及到的深度学习框架有tensorflow、keras、pytorch.
